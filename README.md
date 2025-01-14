@@ -1,4 +1,5 @@
 Página de Notícias
+
 Descrição do Projeto
 Este projeto consiste em uma página web simples e funcional para exibição de notícias. Foi desenvolvido com foco no aprendizado e aplicação prática de conceitos fundamentais de HTML, CSS e JavaScript. A proposta principal é criar um portal de notícias com um design limpo e organizado, ideal para quem está começando na área de desenvolvimento web.
 ________________________________________
